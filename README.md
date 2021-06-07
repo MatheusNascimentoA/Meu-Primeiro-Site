@@ -1,3 +1,3 @@
 # Meu Primeiro Site
 - Meu primeiro site que criei em 2020
-- Tecnologias utilizadas: Html, Css, Bootstrap e PHP.
+- Tecnologias utilizadas: Bootstrap, Css, Js e PHP.
